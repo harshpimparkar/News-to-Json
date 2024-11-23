@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "timestamp": "2024-11-20 23:12:38",
+    "feeds": [
+      "https://www.thehindu.com/news/national/feeder/default.rss",
+      "https://ddnews.gov.in/en/tag/rss/",
+      "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "https://feeds.feedburner.com/ndtvnews-latest",
+      "https://zeenews.india.com/rss/india-national-news.xml",
+      "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "https://services.india.gov.in/feed/rss?cat_id=12&ln=en",
+      "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml"
+    ],
+    "total_locations": 245,
+    "total_disaster_articles": 16
+  },
+  "disaster_articles": [
+    {
+      "title": "INCOIS issues swell surge and ocean current alerts to coastal areas",
+      "date": "2024-11-20 22:33:36",
+      "description": "",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/incois-issues-swell-surge-and-ocean-current-alerts-to-coastal-areas/article68890683.ece",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "disaster_keywords": [
+        "alert"
+      ]
+    },
+    {
+      "title": "Telangana issues health advisory to safeguard against seasonal flu",
+      "date": "2024-11-20 20:49:17",
+      "description": "",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-issues-health-advisory-to-safeguard-against-seasonal-flu/article68890208.ece",
+      "locations": [
+        "telangana"
+      ],
+      "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "disaster_keywords": [
+        "advisory"
+      ]
+    },
+    {
+      "title": "66 children rescued from child labour in Telangana’s month-long drive",
+      "date": "2024-11-20 20:40:57",
+      "description": "",
+      "link": "https://www.thehindu.com/news/national/telangana/66-children-rescued-from-child-labour-in-telanganas-month-long-drive/article68890214.ece",
+      "locations": [
+        "telangana"
+      ],
+      "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "disaster_keywords": [
+        "rescue"
+      ]
+    },
+    {
+      "title": "A.P. government is determined to make Vijayawada a flood-free zone, says WRD Minister",
+      "date": "2024-11-20 20:32:47",
+      "description": "The negligence of the previous YSRCP government had led to the disastrous floods in Vijayawada, says Nimmala Ramanaidu",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-is-determined-to-make-vijayawada-a-flood-free-zone-says-wrd-minister/article68890439.ece",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "disaster_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "title": "Deloitte to cut more jobs: Here's what this signals for 'big companies'",
+      "date": "2024-11-20 13:32:04",
+      "description": "Deloitte is laying off 180 employees from its UK advisory divisions as part of a restructuring driven by \"challenging market conditions.\" The cuts, impacting less than 1% of Deloitte's UK workforce, primarily affect the strategy, risk and transactions division, and the technology and transformation division.",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/deloitte-announces-another-round-of-layoff-heres-what-this-signals-for-big-companies/articleshow/115478394.cms",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "disaster_keywords": [
+        "advisory"
+      ]
+    },
+    {
+      "title": "At AIIMS Delhi, patients stare at 3-year waitlist for MRI scan",
+      "date": "2024-11-19 23:42:41",
+      "description": "Patients at AIIMS Delhi face prolonged waiting periods, up to three years, for MRI scans due to high demand and limited resources. While the hospital prioritizes emergency and inpatient cases, non-urgent outpatients often experience significant delays.  Efforts are underway to implement a digital appointment system with defined cut-off periods to address the issue.",
+      "link": "https://timesofindia.indiatimes.com/city/delhi/aiims-mri-scan-waitlist-reaches-three-years-for-most-patients/articleshow/115461193.cms",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "disaster_keywords": [
+        "emergency"
+      ]
+    },
+    {
+      "title": "US embassy shuts down in Kyiv over likely 'significant air attack'",
+      "date": "2024-11-20 12:53:03",
+      "description": "The US Embassy in Kyiv closed its doors and instructed staff to take cover following a warning about a potential large-scale Russian air attack. The alert was issued after Ukraine used US-supplied ATACMS missiles to attack Russian territory, escalating tensions between Russia and the West.",
+      "link": "https://timesofindia.indiatimes.com/world/europe/us-embassy-shuts-down-in-kyiv-over-likely-russias-significant-air-attack/articleshow/115476861.cms",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "disaster_keywords": [
+        "warning",
+        "alert"
+      ]
+    },
+    {
+      "title": "By 2050, Children Could Face 8 Times More Heatwaves Than In 2000: UNICEF",
+      "date": "2024-11-20 13:26:07",
+      "description": "\"Decades of progress, particularly for girls, are under threat\", noted UNICEF in its latest report.",
+      "link": "https://www.ndtv.com/world-news/by-2050-children-could-face-8-times-more-heatwaves-than-in-2000-unicef-7062199#publisher=newsstand",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://feeds.feedburner.com/ndtvnews-latest",
+      "disaster_keywords": [
+        "heatwave"
+      ]
+    },
+    {
+      "title": "India to have 350 million children by 2050, faces urgent challenges to secure their future: UNICEF report",
+      "date": "2024-11-20 17:56:33",
+      "description": "Indian children face acute risks from extreme heat, floods, and air pollution, particularly in rural and low-income communities, the report said.",
+      "link": "https://www.cnbctv18.com/india/india-to-have-350-million-children-by-2050-faces-urgent-challenges-to-secure-their-future-unicef-report-19512137.htm",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "flood",
+        "extreme heat"
+      ]
+    },
+    {
+      "title": "Sukhbir Singh Badal resigns as SAD president; emergency working committee meet on Nov 18",
+      "date": "2024-11-16 17:54:18",
+      "description": "In a post on X, senior SAD leader Daljit Singh Cheema said that the party's working committee president Balwinder Singh Bhundar has called an emergency meeting of the working committee on November 18 at SAD headquarters in Chandigarh.",
+      "link": "https://www.cnbctv18.com/india/sukhbir-singh-badal-quits-as-sad-president-emergency-working-committee-meet-on-nov-18-19510482.htm",
+      "locations": [
+        "chandigarh"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "emergency"
+      ]
+    },
+    {
+      "title": "Delhi ramps up pollution control efforts as AQI hits 'severe' levels",
+      "date": "2024-11-14 14:32:45",
+      "description": "The use of coal and firewood is now banned in commercial settings, while diesel generator sets are restricted except for essential services like hospitals and emergency operations.",
+      "link": "https://www.cnbctv18.com/india/delhi-aqi-severe-level-pollution-control-efforts-grap-stage-2-19509656.htm",
+      "locations": [
+        "delhi"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "emergency"
+      ]
+    },
+    {
+      "title": "Mumbai: Traffic advisory issued ahead of PM Modi’s rally in Dadar. Check routes to avoid",
+      "date": "2024-11-14 11:15:05",
+      "description": "A series of traffic restrictions and diversions will be enforced in and around Dadar to manage the expected crowd and vehicles in the area.",
+      "link": "https://www.cnbctv18.com/india/mumbai-traffic-advisory-issued-ahead-of-pm-modi-rally-in-dadar-check-routes-to-avoid-19509395.htm",
+      "locations": [
+        "mumbai"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "advisory"
+      ]
+    },
+    {
+      "title": "Bomb threat to IndiGo flight from Nagpur to Kolkata turned out to be hoax",
+      "date": "2024-11-14 15:49:45",
+      "description": "There were 187 passengers and six crew members onboard. The plane was checked at the Swami Vivekananda airport in Ranchi where it made an emergency landing.",
+      "link": "https://www.cnbctv18.com/india/indigo-flight-from-nagpur-to-kolkata-makes-emergency-landing-after-bomb-threat-19509407.htm",
+      "locations": [
+        "kolkata",
+        "ranchi"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "emergency"
+      ]
+    },
+    {
+      "title": "5.1 magnitude earthquake strikes Afghanistan region, jolts Jammu & Kashmir",
+      "date": "2024-11-13 12:32:37",
+      "description": "According to initial reports, the quake occurred at 10:43 am in the Afghanistan region. The tremors were felt in the Kashmir Valley and neighbouring regions.",
+      "link": "https://www.cnbctv18.com/india/earthquake-in-afghanistan-badakhshan-jammu-kashmir-srinagar-magnitude-details-19508779.htm",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "earthquake",
+        "tremor"
+      ]
+    },
+    {
+      "title": "Traffic advisory for PM Modi's Pune rally on November 12: Check restrictions, diversions and road closures",
+      "date": "2024-11-12 14:42:43",
+      "description": "Commuters are advised to plan their routes to prevent delays throughout the rally period.",
+      "link": "https://www.cnbctv18.com/india/traffic-advisory-for-pm-modi-pune-rally-check-restrictions-diversions-and-road-closures-19508170.htm",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/india.xml",
+      "disaster_keywords": [
+        "advisory"
+      ]
+    },
+    {
+      "title": "Financial Assistance by Animal Welfare Organisations - AWOs",
+      "date": "2024-05-08 14:04:44",
+      "description": "The AWBI provides financial support to recognized Animal Welfare Organizations to carry out various welfare activities. This assistance covers regular operations, rescue missions, shelter provision, and other critical services aimed at improving animal welfare standards across the country.",
+      "link": "https://awbi.gov.in/view/index/financial-assistance",
+      "locations": [
+        "Unknown"
+      ],
+      "source": "https://services.india.gov.in/feed/rss?cat_id=12&ln=en",
+      "disaster_keywords": [
+        "rescue"
+      ]
+    }
+  ]
+}
